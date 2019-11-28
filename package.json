@@ -1,0 +1,23 @@
+{
+  "name": "node2019_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiiatoiv/node2019_2.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Tiia Toivonen",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tiiatoiv/node2019_2/issues"
+  },
+  "homepage": "https://github.com/tiiatoiv/node2019_2#readme",
+  "description": ""
+}
